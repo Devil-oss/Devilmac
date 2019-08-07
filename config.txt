@@ -1,0 +1,6 @@
+owner=469985933937344524
+prefix=1
+game=Hell
+stayinchannel=true
+songinstatus=false
+token=NjA4NzEyOTc2MDM1MzQ4NDkw.XUsKSQ.gilmyS67IDeDHmYO--i4sj_toGk
